@@ -1,3 +1,10 @@
+// == CS400 Summer 2024 File Header Information ==
+// Name: Timmy Aziz
+// Email: tgaziz@wisc.edu
+// Account: Timmy-Aziz
+// Lecturer: JIAZHEN ZHOU
+// Notes to Grader: N/A
+
 /*
  *	Color class
  */
